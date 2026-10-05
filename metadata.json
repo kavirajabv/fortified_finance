@@ -1,0 +1,6 @@
+{
+  "name": "FortiFi - AI Financial Management & CyberShield",
+  "description": "AI-powered financial management and cybersecurity web application featuring Personal & Business modes, CyberShield fraud defense, and grounded AI intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
